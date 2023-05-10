@@ -32,7 +32,7 @@
     <repository>
             <id>nexus</id>
             <name>nexus proxy repo</name>
-     <url>http://http://54.175.193.248:8181/mylandmarktech/repository/maven-central/</url>
+     <url>http://http://172.31.28.206:8181/mylandmarktech/repository/maven-central/</url>
      </repository>
      </repositories>
 
@@ -103,13 +103,13 @@
             <repository>
               <id>nexus</id>
               <name>Landmark Technologies Releases Nexus Repository</name>
-              <url>http://54.175.193.248:8181/mylandmarktech/repository/paypal-releases/</url>
+              <url>http://172.31.28.206:8181/mylandmarktech/repository/paypal-releases/</url>
             </repository>
 
             <snapshotRepository>
               <id>nexus</id>
               <name>Landmark Technologies Snapshot Nexus Repository </name>
-              <url>http://54.175.193.248:8181/mylandmarktech/repository/paypal-snapshots/</url>
+              <url>http://172.31.28.206:8181/mylandmarktech/repository/paypal-snapshots/</url>
               </snapshotRepository>
 
         </distributionManagement>
