@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application Dubai23 Project.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires in IT automation.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
-	Class32 will start on April 15, 2023. </h1>
+<h1 align="center">Welcome to Tesla Web application Marquil Project</h1>
+<h1 align="center">I am learning to develop and support quality Software Solutions to millions of clients globally.
+	           I Shall become a millionaire in IT automation.
+	I am training for DevOps with Linux and Cloud equipping IT Engineering for best performance.
+	Class31 is officially over July 15,2023. Time to deploy myself efficiently </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
